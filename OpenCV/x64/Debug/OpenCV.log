@@ -1,0 +1,98 @@
+﻿  gaborWrinkle.cpp
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.h(42): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.h(71): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.h(87): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.cpp(29): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.cpp(30): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.cpp(32): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.cpp(33): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.cpp(114): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.cpp(115): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.cpp(163): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.cpp(165): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.cpp(182): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.cpp(210): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.cpp(211): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.cpp(242): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.cpp(255): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.cpp(256): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.cpp(258): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.cpp(259): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.cpp(299): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.cpp(318): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.cpp(328): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.cpp(330): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+  main.cpp
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\facelandmarks.h(55): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.h(42): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.h(71): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\gaborwrinkle.h(87): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\main.cpp(88): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\main.cpp(81): warning C4101: 'xmin': unreferenced local variable
+c:\users\naynay\desktop\gaborwrinkle - exp\opencv\main.cpp(81): warning C4101: 'xmax': unreferenced local variable
+  Generating Code...
+  OpenCV.vcxproj -> C:\Users\NayNay\Desktop\gaborWrinkle - exp\x64\Debug\OpenCV.exe
