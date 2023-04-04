@@ -1,6 +1,8 @@
 # Wrinkle-detection
+This technique was developed for a company looking to detect unhealthy and aged skin using a number of computer vision algorithms and for the recommendeation of creams. The algorithms have been optimised for mobile devices.
+
 ## Introduction
-Wrinkle detection algorithm using facial landmark detection, gabor filtering, and segmentation. It is mentioned in more detail in the following publication:
+Wrinkle detection algoithm using a number of filters including gabor, frangi and a novel thresholding method. This is followed by a novel line tracking algorithm to detect the biggest wrinkles. The algorithm was tested on the AGES dataset with an accuracy of 79.41%. It is mentioned in more detail in the following publication:
 
  - Joint Roughness and Wrinkle Detection Using Gabor Filtering and Dynamic Line Tracking (https://www.cscjournals.org/library/manuscriptinfo.php?mc=IJCSS-1507)
 
